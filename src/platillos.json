@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Enchiladas de mole",
+        "image": "https://d1nsq2txwd94q7.cloudfront.net/public/files/production/recipes/images/1970/thumb/r_1970_1475612252.jpg",
+        "price": "25.00" 
+    },
+    {
+        "name": "Pozole",
+        "image": "https://images-gmi-pmc.edge-generalmills.com/2870c99a-a9a6-4b3e-8d16-051d9c664c66.jpg",
+        "price": "35.00"
+    },
+    {
+        "name": "Sopa de pollo",
+        "image": "https://img-global.cpcdn.com/002_recipes/878703b85f50b6a6/1200x630cq70/photo.jpg",
+        "price": "45.00" 
+    },
+    {
+        "name": "Tacos dorados",
+        "image": "https://www.cocinavital.mx/wp-content/uploads/2017/08/tacos-dorados-papa-salsa-verde.jpg",
+        "price": "25.00"
+    },
+    {
+        "name": "Tostadas de tinga de pollo",
+        "image": "https://cocina-casera.com/mx/wp-content/uploads/2017/09/tostadas-de-tinga.jpg",
+        "price": "30.00" 
+    },
+    {
+        "name": "Gordita de chicharron",
+        "image": "http://www.garuyo.com/sites/default/files/styles/large/public/images/2015/08/donde-estan-las-mejores-gorditas-de-chicharron-de-la-cdmx_136835.jpg_628114915.jpg",
+        "price": "15.00"
+    },
+    {
+        "name": "Pambazo",
+        "image": "https://www.superama.com.mx/views/micrositio/recetas/images/lacostena/pambazo/Web_fotoreceta.jpg",
+        "price": "30.00" 
+    },
+    {
+        "name": "Pechuga asada",
+        "image": "http://www.tacosmanzano.com/ManzanoGaleria2011/plato-3.jpg",
+        "price": "35.00"
+    }
+]
